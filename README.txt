@@ -1,0 +1,2 @@
+-Run UDPServer on terminal
+-the, run UDPClient
